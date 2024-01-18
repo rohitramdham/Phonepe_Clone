@@ -1,0 +1,79 @@
+body{
+    
+    text-align: center;
+}
+.navbar-brand img{
+    height: auto;
+    width: 280px;
+}
+.colored-section{
+    background-color: blueviolet;
+}
+
+#title{
+    text-align: left;
+}
+.row move-left{
+    padding: auto;
+}
+.big-heading {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: aliceblue;
+    margin-left: 10%;
+  }
+  .container-fluid{
+    padding: 1% 5% 6%;
+  }
+  .push-right{
+    justify-content: flex-end;
+  }
+  .nav-link{
+    font-size: 20px;
+    padding: 20px;
+    color:white;
+  }
+  .nav-link{
+    padding-left: 30px!important;
+    padding-right: 30px!important;
+  }
+  .download-button {
+    margin: 5% 3% 5% 10%;
+  }
+  .logo{
+    
+    width: 15%;
+    position: absolute;
+    right: 15%;
+    transform: rotate(10deg);
+  }
+.imga{
+  height: 100px;
+  width: 100px;
+  
+}
+
+#Features{
+  padding: 5% 20%;
+  position: relative;
+}
+.specer{
+  margin: 0 10px;
+  box-shadow: 40px 50px 40px rgba(50, 50, 71, 0.05);
+  padding: 10%;
+}
+.roundimg{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+.images{
+  margin-left: 150px;
+  height: 80px;
+  width: 80px;
+  text-align: center;
+  
+}
